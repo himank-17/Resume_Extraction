@@ -1,0 +1,40 @@
+Job Description: Software Developer
+Position: Software Developer
+Location: Remote / On-site
+Employment Type: Full-time
+
+Job Summary:
+We are looking for a skilled Software Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, testing, and maintaining software applications that meet our clients' needs.
+
+Responsibilities:
+
+Design and develop scalable, secure, and efficient software solutions.
+Collaborate with cross-functional teams to understand user requirements and deliver high-quality applications.
+Write clean, maintainable, and well-documented code.
+Debug and resolve technical issues and software defects.
+Participate in code reviews and provide constructive feedback.
+Ensure software meets performance, quality, and security standards.
+Requirements:
+
+Education: Bachelor’s degree in Computer Science, Engineering, or related field.
+Experience: 2+ years of professional software development experience.
+Skills:
+Proficiency in programming languages such as Python, Java, C++, or JavaScript.
+Experience with frameworks like Django, React, or Spring Boot.
+Familiarity with database technologies such as SQL, MySQL, or MongoDB.
+Knowledge of cloud platforms like AWS, Azure, or Google Cloud.
+Strong problem-solving and analytical skills.
+Excellent communication and teamwork abilities.
+Preferred Qualifications:
+
+Knowledge of Agile/Scrum development methodologies.
+Experience with DevOps tools and CI/CD pipelines.
+Certifications in relevant technologies (e.g., AWS Certified Developer, Oracle Certified Java Programmer).
+Why Join Us:
+
+Opportunity to work on innovative projects.
+Competitive salary and benefits package.
+Professional development and learning opportunities.
+A supportive and inclusive work environment.
+Application Process:
+Submit your updated resume and a brief cover letter explaining why you're a great fit for this role.
